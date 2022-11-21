@@ -1,1 +1,1 @@
-When we run the file "InsertionSort_part1_1.c" we will create the output file "Output_InsertionSort.csv".
+When we run the file "InsertionSort_part1_1.c" the output file "Output_InsertionSort.csv" will be created.
