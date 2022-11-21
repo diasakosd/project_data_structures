@@ -1,1 +1,1 @@
-Αφότου τρέξουμε το "InsertionSort_part1_1.c" θα δημιουργηθεί ένα output αρχείο το "Output_InsertionSort.csv".
+When we run the file "InsertionSort_part1_1.c" we will create the output file "Output_InsertionSort.csv".
