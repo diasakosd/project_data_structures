@@ -1,1 +1,1 @@
-Αφότου τρέξουμε το "QuickSort_part1_1.c" θα δημιουργηθεί ένα output αρχείο το "Output_QuickSort.csv".
+When we run the file "QuickSort_part1_1.c" the output file "Output_QuickSort.csv" will be created.
