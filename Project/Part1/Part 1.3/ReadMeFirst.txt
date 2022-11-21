@@ -1,2 +1,2 @@
-Αρχικά πρέπει να τρέξουμε το πρόγραμμα "ocean_sorted_dates.c" για να δημιουργηθεί το αρχείο "ocean_sorted_dates.csv"
-το οποίο θα χρησιμοποιήσουμε για να τρέξουμε στο Βinary και Interpolation search.
+First we need to execute the file "ocean_sorted_dates.c" in order to create the file "ocean_sorted_dates.csv"
+which will help us to execute the asked Βinary and Interpolation search.
