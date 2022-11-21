@@ -1,0 +1,1 @@
+Αφότου τρέξουμε το "Part1_2.c" θα δημιουργηθούν δύο output αρχεία το "ocean_heap_sorted.csv" και το "ocean_counting_sorted.csv".

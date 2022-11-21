@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1655504459 source:c:\users\greg\documents\github\data_structures_project\part2_a_b_c\avl_hashing\main.c
+	<stdio.h>
+	<stdlib.h>
+	"avl_date.h"
+	"avl_temp.h"
+	"common.h"
+	"hashing.h"
+
+1654799521 source:c:\users\greg\documents\github\data_structures_project\part2_a_b_c\avl_hashing\aaaa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<limits.h>
+
+1654951389 source:c:\users\greg\documents\github\data_structures_project\part2_a_b_c\avl_hashing\avl_hashing.c
+	<stdio.h>
+	<stdlib.h>
+
+1654946943 source:c:\users\greg\documents\github\data_structures_project\part2_a\avl_date\avl_date.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1654951188 source:c:\users\greg\documents\github\data_structures_project\part2_b\avl_temp\avl_temp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<limits.h>
+
+1654946560 source:c:\users\greg\documents\github\data_structures_project\part2_c\hashing_with_chains\hashing.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+
+1655501532 source:c:\users\greg\documents\github\data_structures_project\part2_a_b_c\avl_hashing\avl_temp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<limits.h>
+	"avl_temp.h"
+	"common.h"
+
+1656243817 source:c:\users\greg\documents\github\data_structures_project\part2_a_b_c\avl_hashing\avl_date.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"avl_date.h"
+	"common.h"
+
+1655495784 c:\users\greg\documents\github\data_structures_project\part2_a_b_c\avl_hashing\avl_date.h
+	"common.h"
+
+1656243856 c:\users\greg\documents\github\data_structures_project\part2_a_b_c\avl_hashing\avl_temp.h
+	"common.h"
+
+1654957331 c:\users\greg\documents\github\data_structures_project\part2_a_b_c\avl_hashing\common.h
+
+1655504719 source:c:\users\greg\documents\github\data_structures_project\part2_a_b_c\avl_hashing\hashing.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+	"hashing.h"
+
+1655494111 c:\users\greg\documents\github\data_structures_project\part2_a_b_c\avl_hashing\hashing.h
+	<stdbool.h>
+	"common.h"
+
+1656243818 source:c:\users\damianos\desktop\avl_hashing\avl_date.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"avl_date.h"
+	"common.h"
+
+1655495786 c:\users\damianos\desktop\avl_hashing\avl_date.h
+	"common.h"
+
+1654957332 c:\users\damianos\desktop\avl_hashing\common.h
+
+1655501534 source:c:\users\damianos\desktop\avl_hashing\avl_temp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<limits.h>
+	"avl_temp.h"
+	"common.h"
+
+1656243858 c:\users\damianos\desktop\avl_hashing\avl_temp.h
+	"common.h"
+
+1655504720 source:c:\users\damianos\desktop\avl_hashing\hashing.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+	"hashing.h"
+
+1655494112 c:\users\damianos\desktop\avl_hashing\hashing.h
+	<stdbool.h>
+	"common.h"
+
+1655504460 source:c:\users\damianos\desktop\avl_hashing\main.c
+	<stdio.h>
+	<stdlib.h>
+	"avl_date.h"
+	"avl_temp.h"
+	"common.h"
+	"hashing.h"
+
+1656243818 source:c:\users\damianos\desktop\project\part2\avl_hashing\avl_date.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"avl_date.h"
+	"common.h"
+
+1655495786 c:\users\damianos\desktop\project\part2\avl_hashing\avl_date.h
+	"common.h"
+
+1654957332 c:\users\damianos\desktop\project\part2\avl_hashing\common.h
+
+1655501534 source:c:\users\damianos\desktop\project\part2\avl_hashing\avl_temp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<limits.h>
+	"avl_temp.h"
+	"common.h"
+
+1656243858 c:\users\damianos\desktop\project\part2\avl_hashing\avl_temp.h
+	"common.h"
+
+1655504720 source:c:\users\damianos\desktop\project\part2\avl_hashing\hashing.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+	"hashing.h"
+
+1655494112 c:\users\damianos\desktop\project\part2\avl_hashing\hashing.h
+	<stdbool.h>
+	"common.h"
+
+1655504460 source:c:\users\damianos\desktop\project\part2\avl_hashing\main.c
+	<stdio.h>
+	<stdlib.h>
+	"avl_date.h"
+	"avl_temp.h"
+	"common.h"
+	"hashing.h"
+
